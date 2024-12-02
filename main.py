@@ -28,5 +28,5 @@ def main():
         print("No se pudo procesar la nota")
 
 if __name__ == "__main__":
-    nombre_archivo = '../txts/bue_lp_01.txt'
+    nombre_archivo = 'txts/bue_lp_01.txt'
     main()
